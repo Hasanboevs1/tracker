@@ -1,4 +1,5 @@
 # expance-tracker
+![](Screenshot 2024-09-10 at 22.29.20.png)
 
 This template should help get you started developing with Vue 3 in Vite.
 
